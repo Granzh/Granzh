@@ -18,7 +18,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           
           # Замените на ваш username
-          user: ВАШ_USERNAME
+          user: Granzh
           template: classic
           base: header, activity, community, repositories
           config_timezone: Europe/Riga
