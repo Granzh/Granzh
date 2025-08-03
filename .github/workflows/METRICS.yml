@@ -21,7 +21,7 @@ jobs:
           user: Granzh
           template: classic
           base: header, activity, community, repositories
-          config_timezone: Europe/Riga
+          config_timezone: Europe/Moscow
           
           # Плагины
           plugin_languages: yes
